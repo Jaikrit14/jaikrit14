@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning web dev
 - 📫 How to reach me jaikritkhichi14@gmail.com
 - ⚡ Fun fact: A cyberattack happens every 38 seconds.
+- ✅ I'm working towards my AWS certification.
